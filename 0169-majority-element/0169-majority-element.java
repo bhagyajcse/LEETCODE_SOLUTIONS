@@ -17,6 +17,8 @@ class Solution {
         return -1;
     }
 }*/
+
+//MOORE'S VOTING ALGO
 class Solution {
     public int majorityElement(int[] nums) {
         int freq=0,ans=0;
