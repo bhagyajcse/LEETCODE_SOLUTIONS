@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
