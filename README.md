@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
