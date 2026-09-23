@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
