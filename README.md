@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0176-second-highest-salary) |
 | [1075-project-employees-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1075-project-employees-i) |
 ## Two Pointers
 |  |
