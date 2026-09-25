@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0175-combine-two-tables) |
 | [1075-project-employees-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1075-project-employees-i) |
 ## Two Pointers
 |  |
