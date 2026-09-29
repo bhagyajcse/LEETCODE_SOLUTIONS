@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
