@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [1929-concatenation-of-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
