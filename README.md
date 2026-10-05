@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
