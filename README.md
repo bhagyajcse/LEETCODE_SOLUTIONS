@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
