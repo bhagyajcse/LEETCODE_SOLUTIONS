@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
