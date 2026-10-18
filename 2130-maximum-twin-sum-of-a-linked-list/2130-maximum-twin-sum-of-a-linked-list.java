@@ -8,34 +8,39 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
 class Solution {
     public int pairSum(ListNode head) {
-        ListNode temp=head;
-        int count=0;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(temp!=null){
-            count++;
-            temp=temp.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        temp=head;
-        int arr[]=new int[count];
-        for(int i=0;i<arr.length;i++){
-            arr[i]=temp.val;
-            temp=temp.next;
+        ListNode prev = null;
+        ListNode curr = slow;
+
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
         }
 
-        int i=0;
-        int j=arr.length-1;
-        int max=0;
-        while(i<j){
-            int sum=arr[i]+arr[j];
-            if(max<sum){
-                max=sum;
-            }
-            i++;
-            j--;
+        int max = 0;
+        ListNode first = head;
+        ListNode second = prev;
+
+        while (second != null) {
+            int sum = first.val + second.val;
+            max = Math.max(max, sum);
+
+            first = first.next;
+            second = second.next;
         }
+
         return max;
     }
 }
