@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Design
 |  |
