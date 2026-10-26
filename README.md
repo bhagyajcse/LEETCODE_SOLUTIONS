@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
