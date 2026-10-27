@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0707-design-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
