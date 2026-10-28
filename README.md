@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2235-add-two-integers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
