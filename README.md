@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
