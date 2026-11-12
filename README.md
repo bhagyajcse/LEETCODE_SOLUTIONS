@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
