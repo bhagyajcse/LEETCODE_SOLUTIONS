@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
