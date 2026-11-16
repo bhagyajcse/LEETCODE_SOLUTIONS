@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
