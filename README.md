@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [1544-make-the-string-great](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1544-make-the-string-great) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Dynamic Programming
 |  |
 | ------- |
