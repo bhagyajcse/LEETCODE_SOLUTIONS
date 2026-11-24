@@ -1,6 +1,6 @@
 class Solution {
     public String makeGood(String s) {
-        Stack<Character> st = new Stack<>();
+        List<Character> st = new ArrayList<>();
 
         if (s==null || s.length()<=1) {
             return s;
@@ -10,7 +10,7 @@ class Solution {
             char ch=s.charAt(i);
 
             if (!st.isEmpty()) {
-                char top=st.peek();
+                char top=st.get(st.size()-1);
 
                 boolean sameLetter =
                     Character.toLowerCase(top) == Character.toLowerCase(ch);
@@ -20,11 +20,11 @@ class Solution {
                     (Character.isLowerCase(top) && Character.isUpperCase(ch));
 
                 if (sameLetter && differentCase) {
-                    st.pop();
+                    st.remove(st.size()-1);
                     continue;
                 }
             }
-            st.push(ch);
+            st.add(ch);
         }
         String res = "";
         for (char c : st) {
