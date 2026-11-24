@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1544-make-the-string-great) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2390-removing-stars-from-a-string](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
