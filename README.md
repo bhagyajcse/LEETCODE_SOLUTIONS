@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0258-add-digits) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bhagyajcse/LEETCODE_SOLUTIONS/tree/master/0682-baseball-game) |
